@@ -1,8 +1,9 @@
+header {
+  background-color:linear-gradient(red, white);
+  font-weight:bolder;
+}
 h1 {
   font-size:40px;
-}
-footer{
-  background-image:url("https://cdn.discordapp.com/attachments/610217920508985344/761368697314344990/New_Drawing.png");
 }
 html{
   text-align:center;
@@ -14,7 +15,6 @@ img{
 img:hover{
   opacity:0.5
 }
-header {
-  background-color:linear-gradient(red, white);
-  font-weight:bolder;
+footer{
+  background-image:url("https://cdn.discordapp.com/attachments/610217920508985344/1022661669928828969/IMG_1738.png");
 }
