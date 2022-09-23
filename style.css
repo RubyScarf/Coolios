@@ -1,19 +1,19 @@
 h1.title {
-   background-image: linear-gradient(red, white);
+  background-image: linear-gradient(red, white);
   font-weight:bolder;
-   font-size:80px;
+  font-size:80px;
 }
 h1.frozen,h1.mc,h1.soccer {
   font-size:50px;
   font-family:Brush Script MT (cursive);
 }
-.better{
+body.better{
   background-color:#c2e6ea;
 }
-.minecraft{
+body.minecraft{
   background-color:#307200;
 }
-.gs{
+body.gs{
   background-image: linear-gradient(to right, black, red , black);
 }
 html{
