@@ -58,7 +58,7 @@ img{
   height:300px;
   width:30%;
 }
-img+a:hover{
+img:hover{
   opacity:0.5
 }
 footer{
