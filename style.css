@@ -7,7 +7,7 @@ h1.frozen,h1.mc,h1.soccer {
   font-size:50px;
   font-family:Brush Script MT (cursive);
 }
-h1.frozen,h1.mc,h1.soccer::active {
+.frozen, .mc, .soccer::active {
   font-size:50px;
   font-family:Brush Script MT (cursive);
   position: relative;
