@@ -5,6 +5,15 @@
 h1 {
   font-size:40px;
 }
+.better{
+  background-color:#c2e6ea;
+}
+.minecraft{
+  background-color:#307200;
+}
+.gs{
+  background-image: linear-gradient(to right, black, red , black);
+}
 html{
   text-align:center;
 }
