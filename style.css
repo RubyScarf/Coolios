@@ -1,5 +1,5 @@
 h1.title {
-  background-color:linear-gradient(red, white);
+  background-image: linear-gradient(to right, red , white);
   font-weight:bolder;
 }
 h1 {
