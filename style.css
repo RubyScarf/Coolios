@@ -7,6 +7,22 @@ h1.frozen,h1.mc,h1.soccer {
   font-size:50px;
   font-family:Brush Script MT (cursive);
 }
+h1.frozen,h1.mc,h1.soccer::active {
+  font-size:50px;
+  font-family:Brush Script MT (cursive);
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+.frozen::active{
+  color:LightBlue;
+}
+.gs::active{
+  color:red;
+}
+.minecraft::active{
+  color:green
+}
 .better{
   background-color:#c2e6ea;
 }
