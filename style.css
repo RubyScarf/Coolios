@@ -10,6 +10,13 @@ h1.frozen,h1.mc,h1.soccer {
 body.better{
   background-color:#c2e6ea;
 }
+.fact{
+  color:blue;
+}
+.fact:active{
+  color:yellow
+  content:"yellow snow"
+}
 body.minecraft{
   background-color:#307200;
 }
