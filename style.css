@@ -13,7 +13,7 @@ h1.frozen,h1.mc,h1.soccer {
 .fact{
   color:blue;
 }
-.fact:active{
+.fact:active:before{
   color:yellow
   content:"yellow snow"
 }
@@ -22,6 +22,13 @@ h1.frozen,h1.mc,h1.soccer {
 }
 .gs{
   background-image: linear-gradient(to right, black, red , black);
+}
+#golazo:hover::after{
+  content:"GOOOOOOOOOOOOAAAAAAAAAAAAAAAAALLLLLLLLLLLL";
+  color:green;
+  color-weight:bolder;
+  background-image:url("https://c.tenor.com/Rdz9M0h2BoQAAAAC/confetti.gif");
+  width:20px;
 }
 html{
   text-align:center;
