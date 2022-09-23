@@ -7,7 +7,7 @@ h1.frozen,h1.mc,h1.soccer {
   font-size:50px;
   font-family:Brush Script MT (cursive);
 }
-body.better{
+.better{
   background-color:#c2e6ea;
 }
 .fact{
@@ -17,10 +17,10 @@ body.better{
   color:yellow
   content:"yellow snow"
 }
-body.minecraft{
+.minecraft{
   background-color:#307200;
 }
-body.gs{
+.gs{
   background-image: linear-gradient(to right, black, red , black);
 }
 html{
