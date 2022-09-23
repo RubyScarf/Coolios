@@ -15,7 +15,6 @@ img:hover{
   opacity:0.5
 }
 header {
-  background-color:red;
-  color:white;
+  background-color:linear-gradient(red, white);
   font-weight:bolder;
 }
