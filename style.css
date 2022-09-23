@@ -21,6 +21,9 @@ img{
   width:400px;
   height:300px;
 }
+#frozen{
+  height:300px;
+}
 img:hover{
   opacity:0.5
 }
