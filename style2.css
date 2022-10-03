@@ -1,0 +1,47 @@
+header{
+    background-image:url(https://media.istockphoto.com/photos/lost-man-picture-id148773900?k=20&m=148773900&s=170667a&w=0&h=UaqDfmTQmqvhJP7IwNHgH72GsHyiczi_fIl6dpUgemg=);
+    height:200px;
+    text-align:center;
+    color:white;
+    font-weight:Bolder;
+    font-size:40px;
+}
+
+.title:active{
+    color:gray;
+    transition:color 2s;
+}
+
+}
+#setting{
+    font-size:30px;
+    color:#000c6f;
+    font-family:Copperplate;
+}
+#ned:hover::after{
+    content: "Main character, most of his time is spent with friends or new girlfriend as he tries to find THE one. He use to be a hopeless romantic";
+}
+#swarley:active::after{
+    content: "Good friend, played people and tried to live life to the fullest. Does not like to do things alone. Although he argued his life was fun and legendary, he had the biggest void"
+}
+#marshmellow:active::after{
+    content:"Best friend since college, gullable and caring. Environmentalist lawyer who met his wife in college and is starting a family."
+}
+#lilypad:active::after{
+    content: "College friend, wife of best friend, works as a kindergarden teacher, is grat artist, and is expecting."
+}
+#roland:active::after{
+    content: "Girl of his dreams, met in 2005. Did not work between the 2. At the time not committed to a serious relationship. Works as a new reporter and engaged to Guy."
+}
+blockquote{
+    background-color:#5a80a5;
+    border-radius:20px;
+    padding:2px 1px 2px 5px;
+    border-style:dotted;
+}
+body{
+    background-color:#e0e7ee;
+}
+p:hover{
+    background-color:#9ecaff;
+}
