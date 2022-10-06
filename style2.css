@@ -73,8 +73,8 @@ blockquote{
     border-style:dotted;
 }
 @keyframes title {
-  from {background-color: red;}
-  to {background-color: yellow;}
+  from {background-color: lightblue;}
+  to {background-color: gray;}
 }
 
 div.characters{
