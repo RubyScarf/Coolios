@@ -38,6 +38,7 @@ div.characters{
 .title:active{
     color:gray;
     transition:color 2s;
+    animation:title;
 }
 .label{
     font-size:40px;
