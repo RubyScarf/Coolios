@@ -36,6 +36,10 @@ div.characters{
     filter:hue-rotate(90deg);
 }
 
+.title{
+    transition: color 2s;
+}
+
 .title:active{
     color:gray;
     transition:color 2s;
